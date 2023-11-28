@@ -551,6 +551,7 @@ a{
     align-items: center;
     justify-content: space-between;
     margin-top: 36px;
+    column-gap: 24px;
 }
 
 .about-content__row-data{
